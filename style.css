@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(105, 105, 108);
+}
+.cubo-espacio{
+    width: 800px;
+    border: none;
+    border-radius: 1px;
+    height: 400px;
+    background-color: black;
+
+}
+.espacios-lados{
+    padding-left: 100px;
+    padding-right: 130px;
+}
+
+/*boton*/
+.boton{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    padding: 5px 10px;
+}
+.fontsi{
+    font-size: 8px;
+}
+.es{
+    border-radius: 10px;
+    border: solid 1px white;
+    background-color: black;
+    color: white;
+}
+
+.centrotodo{
+    padding-left: 170px;
+    padding-right: 170px;
+
+}
